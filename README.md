@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Salah Uddin</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **FastAPI, Next.js, SQLAlchemy**
 
