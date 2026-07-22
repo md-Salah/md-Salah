@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Salah Uddin</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **FastAPI, Next.js, SQLAlchemy**
+- 🌱 I’m currently learning **LangChain, FastAPI, Next.js, SQLAlchemy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/md-Salah?tab=repositories](https://github.com/md-Salah?tab=repositories)
 
